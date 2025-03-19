@@ -15,6 +15,10 @@ The objective of the game is to navigate through a series of visually stunning l
 -  **Progression**: For every 10 crystals hit, you unlock the ability to shoot one additional ball simultaneously, increasing your firepower.
 -  **Pause Menu**: Pause the game at any time to restart, resume, or adjust settings.
 
+
+https://github.com/user-attachments/assets/952f5d55-35f8-4b5d-88da-7aab68368a03
+
+
 # Contact
 If you would like access to the source files, please reach out to me at meganleetong@gmail.com.
 
